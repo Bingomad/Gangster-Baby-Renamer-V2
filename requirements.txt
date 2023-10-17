@@ -4,7 +4,7 @@ hachoir
 pyrofork==2.2.10 
 pyrogram
 TgCrypto
-pymongo==4.0.2
+pymongo==4.4.1
 dnspython
 Flask==2.2.2
 gunicorn==20.1.0
