@@ -1,6 +1,7 @@
 Pillow
 humanize
 hachoir
+pyrofork==2.2.10 
 pyrogram
 TgCrypto
 pymongo==4.4.1
